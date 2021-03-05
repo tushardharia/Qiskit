@@ -1,2 +1,2 @@
 # Qiskit
-# This is where i'll keep mu progress of Qiskit 
+# This is where i'll keep my progress of Qiskit 
